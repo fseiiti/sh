@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Apache Tomcat 7
 
 if [ $(id -u) -ne 0 ]; then
